@@ -22,3 +22,4 @@ ADO.NET para acceso a datos
 
 ❕CONEXION BASE DE DATOS❕ Utiliza el querry creacion para crear la base de datos. y luego conecta tu server en el controlador bdcontroller. Puedes utilizar el querry insert productos el cual tiene 20 productos para ingresar
 En caso de que no abra el index en visual studio poner index como pagina de inicio
+QUERRY CREACION SE LLAMA SQLQUERY1
